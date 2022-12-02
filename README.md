@@ -1,9 +1,9 @@
 # devops_training
 
-pre-requsite - (only for windows OS user)
+pre-requsite - (below steps are to be followed by windows users)
 1. install vagrant
-2. install virtual box
-3. install git cli 
+2. install git cli 
+3. install virtual box
 4. configure and enable bridge connection on virtual box
 5. ensure virtualization is enabled through bios setup
 6. make directory/folder into local system
